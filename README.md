@@ -69,7 +69,7 @@ I care about end-to-end ownership: clean boundaries, measurable outcomes, and sy
 B2B steel & commodities market-intelligence SaaS.
 
 - Concept → production; **100+** users  
-- Neo4j KG + hybrid RAG (BGE + BM25)  
+- Neo4j KG + hybrid RAG
 - Fuzzy market-trend scoring  
 - Interviewed **40+** candidates  
 
@@ -85,7 +85,7 @@ B2B steel & commodities market-intelligence SaaS.
 National train-ticket booking platform.
 
 - NestJS 11 + Next.js production API  
-- RAJA SOAP: search → lock → refund  
+- RAJA SOAP: search → lock → register → refund  
 - ZarinPal · SnappPay · Mellat  
 - OTP/JWT · RBAC · dual-schema PII  
 
@@ -163,26 +163,7 @@ International steel & petrochemical trading.
 
 ---
 
-### Featured writing & portfolio
-
-Writing and project notes live on my site:
-
-- [Hybrid RAG in Production: Dense Embeddings, BM25 & Knowledge Graphs](https://mghobakhlou.github.io/blog/hybrid-rag-knowledge-graphs/)
-- [NestJS Ticketing APIs around SOAP & Multi-Gateway Payments](https://mghobakhlou.github.io/blog/nestjs-soap-payment-gateways/)
-- [From Concept to Production as a Founding Engineer](https://mghobakhlou.github.io/blog/founding-engineer-zero-to-production/)
-
 Explore more → **[mghobakhlou.github.io](https://mghobakhlou.github.io/)** · **[Projects](https://mghobakhlou.github.io/projects/)** · **[Blog](https://mghobakhlou.github.io/blog/)**
-
----
-
-### By the numbers
-
-```text
-  3     production-grade companies helped build from zero
- 15+    projects — academic research to industrial systems
- 40+    engineers interviewed while growing the team
- #62    national M.Sc. entrance exam (≈100,000 participants)
-```
 
 ---
 
