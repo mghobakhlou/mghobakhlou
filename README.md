@@ -21,7 +21,7 @@
     <a href="https://mghobakhlou.github.io/">Website</a> ·
     <a href="https://www.linkedin.com/in/mohammadreza-ghobakhlou/">LinkedIn</a> ·
     <a href="mailto:ghobakhlou.mohammadreza@gmail.com">Email</a> ·
-    <a href="https://mghobakhlou.github.io/files/Mohammadreza_Ghobakhlou_CV.pdf">CV</a>
+    <a href="https://mghobakhlou.github.io/files/Mohammadreza_Ghobakhlou_Resume.pdf">Resume</a>
   </p>
 
 </div>
